@@ -1,4 +1,4 @@
-<h1 align="center">Hi there 👋, I'm Hilmi</h1>
+<h1 align="center">Hi there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35px">, I'm Hilmi</h1>
 <h3 align="center">Software Engineer passionate about crafting scalable and user-friendly applications.</h3>
 
 <p align="center">
@@ -35,6 +35,8 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dart/dart-original.svg" width="40" height="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" width="40" height="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" width="40" height="40"/>
+  	
 </p>
 </p>
 
@@ -53,6 +55,9 @@
   <img src="https://avatars.githubusercontent.com/u/139895814?s=200&v=4" width="40" height="40" alt="Shadcn logo"/>
   <img src="https://files.svgcdn.io/logos/turborepo-icon.svg" width="40" height="40" alt="Turborepo logo"/>
   <img src="https://vectorlogo.zone/logos/podmanio/podmanio-icon.svg" width="40" height="40" alt="Podman logo"/>
+  <img src="https://files.svgcdn.io/devicon/postgresql.svg" width="40" height="40" alt="PostgreSQL logo"/>
+  <img src="https://files.svgcdn.io/logos/firebase.svg" width="40" height="40" alt="Firebase logo"/>
+  
 </p>
 
 | Tools | Purpose |
@@ -60,6 +65,8 @@
 | TailwindCSS + Shadcn | Effortless styling with utility-first CSS + clean component library. |
 | Turborepo | Monorepo management for scalable projects. |
 | Podman | Secure and daemonless containerization for my development workflows. |
+| PostgreSQL | Powerful, open-source relational database system |
+| Firebase | Backend-as-a-Service providing authentication, real-time database, storage & hosting |
 
 ---
 

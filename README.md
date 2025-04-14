@@ -30,12 +30,12 @@
 ## 🛠️ Languages & Frameworks
 
 <p align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="40" height="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original-wordmark.svg" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dart/dart-original.svg" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="40" height="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dart/dart-original.svg" width="40" height="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="40" height="40"/>
   	
 </p>
 </p>
@@ -43,8 +43,8 @@
 | Tech | Description |
 |------|-------------|
 | Next.js & TypeScript | My go-to stack for building fast, scalable, and interactive web applications. |
-| Dart & Flutter | Cross-platform mobile app development with beautiful and performant UI. |
-| Java & Spring Boot | Backend development with clean architecture and enterprise-grade features. |
+| Flutter & Dart | Cross-platform mobile app development with beautiful and performant UI. |
+| Spring Boot & Java | Backend development with clean architecture and enterprise-grade features. |
 
 ---
 

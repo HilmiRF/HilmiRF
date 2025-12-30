@@ -9,7 +9,7 @@
 
 ## 🧑‍💻 About Me
 
-- 🚀 2+ years of experience crafting scalable Web & Mobile applications.
+- 🚀 3+ years of experience crafting scalable Web & Mobile applications.
 - 🔍 Currently exploring Clean Architecture, Monorepo builds.
 - 🎯 Always excited to solve real-world problems through tech.
 - 🛠️ Strong believer in "build > ship > learn > repeat."

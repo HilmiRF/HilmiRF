@@ -29,14 +29,14 @@
 
 ## 🛠️ Languages & Frameworks
 
-<p align="left">
+<div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original-wordmark.svg" width="40" height="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="40" height="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" width="40" height="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dart/dart-original.svg" width="40" height="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" width="40" height="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="40" height="40"/>	
-</p>
+</div>
 
 | Tech | Description |
 |------|-------------|
@@ -78,5 +78,27 @@
 ## 📫 Connect with me
 
 <p align="left">
-  <a href="https://github.com/HilmiRF"><img src="https://img.shields.io/badge/GitHub-HilmiRF-181717?style=for-the-badge&logo=github" /></a>
+  <a href="https://www.linkedin.com/in/hilmi-rafif-fajari/" target="blank">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" height="28" />
+  </a>
+  &nbsp;
+  <a href="https://www.instagram.com/hilmirafiff/" target="blank">
+    <img src="https://img.shields.io/badge/Instagram-Follow-E4405F?style=for-the-badge&logo=instagram&logoColor=white" height="28" />
+  </a>
+  &nbsp;
+  <a href="https://www.threads.com/hilmirafiff/" target="blank">
+    <img src="https://img.shields.io/badge/Threads-Follow-181717?style=for-the-badge&logo=threads&logoColor=white" height="28" />
+  </a>
+  &nbsp;
+  <a href="https://www.tiktok.com/@hilmirf" target="blank">
+    <img src="https://img.shields.io/badge/Tiktok-Follow-181717?style=for-the-badge&logo=tiktok&logoColor=white" height="28" />
+  </a>
+  &nbsp;
+  <a href="https://x.com/hilmirafiff" target="blank">
+    <img src="https://img.shields.io/badge/Twitter-Follow-181717?style=for-the-badge&logo=x&logoColor=black" height="28" />
+  </a>
+  &nbsp;
+  <a href="https://www.youtube.com/@HilmiRF" target="blank">
+    <img src="https://img.shields.io/badge/Youtube-Subscribe-181717?style=for-the-badge&logo=youtube&logoColor=red" height="28" />
+  </a>
 </p>
